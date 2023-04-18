@@ -1,0 +1,11 @@
+.block__title {
+  color: yellow;
+  font-size: 3rem;
+  line-height: 1.2em;
+}
+
+.block__items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=StilObnull.css.map */
